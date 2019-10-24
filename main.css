@@ -7,7 +7,7 @@
   width: 1920px;
 }
 
-div.hero {
+.hero {
   text-align: center;
   text-align: center;
   font-family: "Montserrat";
@@ -26,11 +26,11 @@ h1 {
   font-weight: lighter;
 }
 
-div.box1 {
+.box1 {
   font-family: "Montserrat";
   background-color: white;
   width: 350px;
-  height: 200px;
+  height: 230px;
   margin-left: 350px;
   margin-top: 50px;
   float: left;
@@ -51,7 +51,7 @@ ul {
   text-align: left;
   margin-left: 110px;
 }
-div.box2 {
+.box2 {
   float: right;
   background-color: white;
   width: 800px;
@@ -64,7 +64,7 @@ div.box2 {
   border-radius: 25px;
 }
 
-ul.Education {
+.Education {
   font-family: "Montserrat";
   font-size: 130%;
   text-align: left;
@@ -80,11 +80,11 @@ h3 {
   margin-top: 15px;
 }
 
-div.avatar {
+.avatar {
   display: flex;
   align-items: center;
 }
-div.profileinfo {
+.profileinfo {
   display: flex;
   margin-left: 300px;
   margin-top: 50px;
@@ -95,4 +95,104 @@ h4 {
   font-size: 300%;
 }
 body {
+}
+
+.Experiencebox {
+  float: right;
+  background-color: white;
+  width: 800px;
+  height: 400px;
+  margin-right: 350px;
+  margin-top: 50px;
+  -webkit-box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+}
+
+.Programbox {
+  font-family: "Montserrat";
+  background-color: white;
+  width: 350px;
+  height: 400px;
+  margin-left: 350px;
+  margin-top: 50px;
+  float: left;
+  -webkit-box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+}
+
+.icon {
+  width: 80px;
+  margin-top: 40px;
+  margin-left: 60px;
+}
+
+.Portfoliobox {
+  float: right;
+  background-color: white;
+  width: 800px;
+  height: 400px;
+  margin-right: 350px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  -webkit-box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+}
+
+.Contactbox {
+  font-family: "Montserrat";
+  background-color: white;
+  width: 350px;
+  height: 400px;
+  margin-bottom: 20px;
+  margin-left: 350px;
+  margin-top: 50px;
+  float: left;
+  -webkit-box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 3px 13px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+}
+
+.GUCCI {
+  font-family: "Montserrat";
+  font-size: 200%;
+}
+
+.PERIOD1 {
+  font-family: "Montserrat";
+}
+
+.KERPA {
+  font-family: "Montserrat";
+  font-size: 200%;
+}
+
+.PERIOD2 {
+  font-family: "Montserrat";
+}
+
+.GUCCIdiv {
+  margin-top: 50px;
+  margin-left: 70px;
+}
+
+.kerpadiv {
+  margin-top: 50px;
+  margin-left: 70px;
+}
+
+.email {
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+.phone {
+  margin-left: 60px;
+  margin-top: 20px;
 }
